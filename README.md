@@ -1,2 +1,2 @@
-# trex-a-color
-juego del trex 
+# Trex-Color
+Trex a color con función touches
